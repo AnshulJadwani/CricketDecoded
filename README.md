@@ -2,6 +2,7 @@
 Comprehensive IPL Cricket Data Analysis Dashboard built in Tableau — uncover player performance, team stats, and match insights through interactive visualizations.
 
 🏏 IPL Cricket Data Analysis Dashboard
+
 📊 Overview
 
 This repository contains a Tableau-based data analytics project that explores and visualizes insights from Indian Premier League (IPL) cricket data. The analysis covers multiple seasons and focuses on team performances, player statistics, and match outcomes.
